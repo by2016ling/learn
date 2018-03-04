@@ -12,4 +12,4 @@ in master and in feature1
 
 build branch dev1, buil branch dev2 with-no-ff
 
-No.1 came always.
+No.2 came first. No.1 came later and fix the conflict.
