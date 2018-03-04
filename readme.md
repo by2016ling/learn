@@ -10,4 +10,4 @@ in branch dev
 
 in master and in feature1
 
-build branch dev1
+build branch dev1, buil branch dev2 with-no-ff
