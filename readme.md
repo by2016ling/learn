@@ -8,4 +8,4 @@ first-add
 
 in branch dev
 
-in master
+in master and in feature1
