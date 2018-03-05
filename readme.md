@@ -12,4 +12,4 @@ in master and in feature1
 
 build branch dev1, buil branch dev2 with-no-ff
 
-No.2 came once.
+No.2 came once. No.2 come secondly and add 2.md
