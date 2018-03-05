@@ -12,4 +12,6 @@ in master and in feature1
 
 build branch dev1, buil branch dev2 with-no-ff
 
-No.2 came once. No.2 come secondly and add 2.md
+No.2 came first. No.1 came later and fix the conflict.
+
+No.1 come first and build 1.md. Then, No.2 come secondly and add 2.md.
